@@ -8,6 +8,7 @@ setuptools.setup(
     name='sqlog',
     version='2.0',
     license='MIT',
+    url='https://github.com/andriystr/sqlog',
     author='Andriy Stremeluk',
     author_email='astremeluk@gmail.com',
     description='Hierarchical logging',
